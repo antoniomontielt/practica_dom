@@ -2,7 +2,7 @@ const iPhones = [
     {
       name: "iPhone 15 Pro Max",
       price: 1399,
-      imageUrl: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-max-finish-select-202309-6-7inch-naturaltitanium",
+      imageUrl: "https://m.media-amazon.com/images/I/815eN0AS-CL._AC_SL1500_.jpg",
       storage: "1TB",
       vendor: "Cyber",
       brand: "Apple"
@@ -10,7 +10,7 @@ const iPhones = [
     {
       name: "iPhone 15 Pro",
       price: 1199,
-      imageUrl: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium",
+      imageUrl: "https://m.media-amazon.com/images/I/81nHfLrIogL._AC_SL1500_.jpg",
       storage: "512GB",
       vendor: "TechWorld",
       brand: "Apple"
@@ -18,7 +18,7 @@ const iPhones = [
     {
       name: "iPhone 15",
       price: 899,
-      imageUrl: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-blue",
+      imageUrl: "https://m.media-amazon.com/images/I/71CW36JRavL._AC_SL1500_.jpg",
       storage: "256GB",
       vendor: "Cyber",
       brand: "Apple"
@@ -26,7 +26,7 @@ const iPhones = [
     {
       name: "iPhone 14 Pro Max",
       price: 1099,
-      imageUrl: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-deeppurple",
+      imageUrl: "https://m.media-amazon.com/images/I/610pghkO81L._AC_SL1500_.jpg",
       storage: "128GB",
       vendor: "PhoneCenter",
       brand: "Apple"
@@ -34,7 +34,7 @@ const iPhones = [
     {
       name: "iPhone 14",
       price: 799,
-      imageUrl: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue",
+      imageUrl: "https://m.media-amazon.com/images/I/619f09kK7tL._AC_SL1500_.jpg",
       storage: "512GB",
       vendor: "Cyber",
       brand: "Apple"
@@ -42,7 +42,7 @@ const iPhones = [
     {
       name: "iPhone 13 Pro Max",
       price: 999,
-      imageUrl: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-finish-unselect-gallery-1-202203",
+      imageUrl: "https://m.media-amazon.com/images/I/61RAsVPOjxL._AC_SL1500_.jpg",
       storage: "1TB",
       vendor: "TechWorld",
       brand: "Apple"
@@ -50,7 +50,7 @@ const iPhones = [
     {
       name: "iPhone 13",
       price: 699,
-      imageUrl: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-unselect-gallery-1-202203",
+      imageUrl: "https://m.media-amazon.com/images/I/61LLhELDAbL._AC_SL1500_.jpg",
       storage: "128GB",
       vendor: "PhoneCenter",
       brand: "Apple"
@@ -58,7 +58,7 @@ const iPhones = [
     {
       name: "iPhone 12",
       price: 599,
-      imageUrl: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-finish-unselect-gallery-1-202203",
+      imageUrl: "https://m.media-amazon.com/images/I/71E5zB1qbIL._AC_SL1500_.jpg",
       storage: "64GB",
       vendor: "Cyber",
       brand: "Apple"
@@ -66,7 +66,7 @@ const iPhones = [
     {
       name: "iPhone SE (3ª Gen)",
       price: 429,
-      imageUrl: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-finish-unselect-gallery-1-202203",
+      imageUrl: "https://m.media-amazon.com/images/I/61TOWf11+jL._AC_SL1500_.jpg",
       storage: "256GB",
       vendor: "TechWorld",
       brand: "Apple"
@@ -74,7 +74,7 @@ const iPhones = [
     {
       name: "iPhone XR",
       price: 399,
-      imageUrl: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-finish-unselect-gallery-1-202203",
+      imageUrl: "https://m.media-amazon.com/images/I/61VpNsUXOJL._AC_SL1411_.jpg",
       storage: "128GB",
       vendor: "PhoneCenter",
       brand: "Apple"
@@ -82,7 +82,7 @@ const iPhones = [
     {
         name: "Samsung Galaxy S23 Ultra",
         price: 1299,
-        imageUrl: "https://images.samsung.com/is/image/samsung/p6pim/es/galaxy-s23-ultra/",
+        imageUrl: "https://m.media-amazon.com/images/I/518-9ZaLFML._AC_SL1500_.jpg",
         storage: "512GB",
         vendor: "TechWorld",
         brand: "Samsung"
@@ -90,7 +90,7 @@ const iPhones = [
     {
         name: "Google Pixel 8 Pro",
         price: 1099,
-        imageUrl: "https://store.google.com/product_images/pixel_8_pro",
+        imageUrl: "https://m.media-amazon.com/images/I/71iCxoF7m-L._AC_SL1500_.jpg",
         storage: "256GB",
         vendor: "PhoneCenter",
         brand: "Google"
@@ -98,7 +98,7 @@ const iPhones = [
     {
         name: "OnePlus 11",
         price: 899,
-        imageUrl: "https://www.oneplus.com/oneplus-11-image.jpg",
+        imageUrl: "https://m.media-amazon.com/images/I/512wQ0SVSrL._AC_SL1000_.jpg",
         storage: "256GB",
         vendor: "Cyber",
         brand: "OnePlus"
@@ -106,7 +106,7 @@ const iPhones = [
     {
         name: "Xiaomi 13 Pro",
         price: 999,
-        imageUrl: "https://i02.appmifile.com/mi-com-product/images/xiaomi-13-pro",
+        imageUrl: "https://m.media-amazon.com/images/I/613MutpiXcL._AC_SL1500_.jpg",
         storage: "512GB",
         vendor: "PhoneCenter",
         brand: "Xiaomi"
@@ -114,7 +114,7 @@ const iPhones = [
     {
         name: "Sony Xperia 1 V",
         price: 1199,
-        imageUrl: "https://www.sony.com/image/xperia-1-v",
+        imageUrl: "https://m.media-amazon.com/images/I/91TDYB7rxEL._AC_SL1500_.jpg",
         storage: "256GB",
         vendor: "TechWorld",
         brand: "Sony"
@@ -122,7 +122,7 @@ const iPhones = [
     {
         name: "Huawei P60 Pro",
         price: 1099,
-        imageUrl: "https://consumer.huawei.com/p60-pro-image/",
+        imageUrl: "https://m.media-amazon.com/images/I/71TrxGfNn-L._AC_SL1500_.jpg",
         storage: "512GB",
         vendor: "Cyber",
         brand: "Huawei"
@@ -130,7 +130,7 @@ const iPhones = [
     {
         name: "Motorola Edge 40 Pro",
         price: 799,
-        imageUrl: "https://motorola.com/image/motorola-edge-40-pro",
+        imageUrl: "https://m.media-amazon.com/images/I/71NpY04JOFL._AC_SL1500_.jpg",
         storage: "256GB",
         vendor: "PhoneCenter",
         brand: "Motorola"
@@ -138,7 +138,7 @@ const iPhones = [
     {
         name: "Nothing Phone (2)",
         price: 699,
-        imageUrl: "https://nothing.tech/products/phone-2",
+        imageUrl: "https://m.media-amazon.com/images/I/61oycK5i7qL._AC_SL1090_.jpg",
         storage: "128GB",
         vendor: "Cyber",
         brand: "Nothing"
@@ -146,7 +146,7 @@ const iPhones = [
     {
         name: "Asus ROG Phone 7",
         price: 1199,
-        imageUrl: "https://rog.asus.com/product/rog-phone-7",
+        imageUrl: "https://m.media-amazon.com/images/I/81UPV6kdVGL._AC_SL1500_.jpg",
         storage: "1TB",
         vendor: "TechWorld",
         brand: "Asus"
@@ -196,6 +196,7 @@ const iPhones = [
     title.addEventListener("click", () => {
         const content = title.nextElementSibling;
         content.classList.toggle("open");
+
     })
   });
 
@@ -267,6 +268,166 @@ for (const iPhoneVendor of iPhoneVendors) {
 }
 
 vendorFilter.appendChild(ulVendor);
+
+const minPrice = Math.min(...iPhones.map(i => i.price));
+const maxPrice = Math.max(...iPhones.map(i => i.price));
+
+const filterPrice = document.querySelector("#filter-price");
+const priceContainer = document.createElement("div");
+priceContainer.classList.add("price-filter-container");
+
+const minInput = document.createElement("input");
+minInput.type = "number";
+minInput.value = minPrice;
+minInput.min = minPrice;
+minInput.max = maxPrice;
+minInput.id = "min-price";
+
+const maxInput = document.createElement("input");
+maxInput.type = "number";
+maxInput.value = maxPrice;
+maxInput.min = minPrice;
+maxInput.max = maxPrice;
+maxInput.id = "max-price";
+
+const priceInputs = document.createElement("div");
+priceInputs.classList.add("price-inputs");
+priceInputs.appendChild(minInput);
+priceInputs.appendChild(maxInput);
+
+const rangeInput = document.createElement("input");
+rangeInput.type = "range";
+rangeInput.min = minPrice;
+rangeInput.max = maxPrice;
+rangeInput.value = maxPrice;
+rangeInput.id = "price-range";
+
+minInput.addEventListener("input", () => {
+    if (parseInt(minInput.value) > parseInt(maxInput.value)) {
+        minInput.value = maxInput.value;
+    }
+    rangeInput.value = minInput.value;
+    filterProducts();
+});
+
+maxInput.addEventListener("input", () => {
+    if (parseInt(maxInput.value) < parseInt(minInput.value)) {
+        maxInput.value = minInput.value;
+    }
+    rangeInput.value = maxInput.value;
+    filterProducts();
+});
+
+
+rangeInput.addEventListener("input", () => {
+    maxInput.value = rangeInput.value;
+    filterProducts();
+});
+
+
+priceContainer.appendChild(priceInputs);
+priceContainer.appendChild(rangeInput);
+filterPrice.appendChild(priceContainer);
+
+
+function filterProducts() {
+    const min = parseInt(minInput.value);
+    const max = parseInt(maxInput.value);
+    const filteredPhones = iPhones.filter(phone => phone.price >= min && phone.price <= max);
+    
+    const searchResults = document.querySelector(".cards-container-shop");
+    searchResults.innerHTML = ""; 
+    
+    for (const phone of filteredPhones) {
+        const card = document.createElement("article");
+        card.classList.add("card-shop");
+        card.innerHTML = `
+            <img src="${phone.imageUrl}" alt="${phone.name}">
+            <p>${phone.name}</p>
+            <p>${phone.storage}</p>
+            <p>${phone.price}€</p>
+            <a href="#">Comprar ya</a>
+        `;
+        searchResults.appendChild(card);
+    }
+}
+
+let currentPage = 1;
+const itemsPerPage = 9;
+let filteredPhones = [...iPhones];
+
+function renderPagination() {
+    const totalPages = Math.ceil(filteredPhones.length / itemsPerPage);
+    const paginationContainer = document.querySelector(".pagination");
+    paginationContainer.innerHTML = "";
+
+    for (let i = 1; i <= totalPages; i++) {
+        const button = document.createElement("button");
+        button.innerText = i;
+        button.classList.add("pagination-btn");
+        if (i === currentPage) button.classList.add("active");
+
+        button.addEventListener("click", () => {
+            currentPage = i;
+            renderProducts();
+        });
+
+        paginationContainer.appendChild(button);
+    }
+}
+
+function renderProducts() {
+    const searchResults = document.querySelector(".cards-container-shop");
+    searchResults.innerHTML = "";
+
+    const start = (currentPage - 1) * itemsPerPage;
+    const end = start + itemsPerPage;
+    const productsToShow = filteredPhones.slice(start, end);
+
+    for (const phone of productsToShow) {
+        const card = document.createElement("article");
+        card.classList.add("card-shop");
+        card.innerHTML = `
+            <img src="${phone.imageUrl}" alt="${phone.name}">
+            <p>${phone.name}</p>
+            <p>${phone.storage}</p>
+            <p>${phone.price}€</p>
+            <a href="#">Comprar ya</a>
+        `;
+        searchResults.appendChild(card);
+    }
+
+    renderPagination();
+}
+
+function filterProducts() {
+    const min = parseInt(document.querySelector("#min-price").value);
+    const max = parseInt(document.querySelector("#max-price").value);
+
+    const selectedBrands = [...document.querySelectorAll("#filter-brand input:checked")].map(el => el.value);
+    const selectedStorages = [...document.querySelectorAll("#filter-storage input:checked")].map(el => el.value);
+    const selectedVendors = [...document.querySelectorAll("#filter-vendor input:checked")].map(el => el.value);
+
+    filteredPhones = iPhones.filter(phone => 
+        phone.price >= min && phone.price <= max &&
+        (selectedBrands.length === 0 || selectedBrands.includes(phone.brand)) &&
+        (selectedStorages.length === 0 || selectedStorages.includes(phone.storage)) &&
+        (selectedVendors.length === 0 || selectedVendors.includes(phone.vendor))
+    );
+
+    currentPage = 1; 
+    renderProducts();
+}
+
+
+document.addEventListener("DOMContentLoaded", () => {
+    renderProducts();
+});
+
+
+document.querySelectorAll("#filter-brand input, #filter-storage input, #filter-vendor input").forEach(input => {
+    input.addEventListener("change", filterProducts);
+});
 
 
 

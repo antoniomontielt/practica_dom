@@ -779,12 +779,13 @@ footer > ul > li:hover {
     gap: 24px;
     border-radius: 8px;
     padding: 24px 16px;
-    width: calc(100% / 3);
+    width: calc(100% / 4);
 }
 
 .card-shop:hover {
     cursor: pointer;
     box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.17);
+    transition: all 0.1s ease-in;
 }
 
 .card-shop > p {
@@ -855,7 +856,7 @@ footer > ul > li:hover {
     flex: 1; 
     display: flex;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 24px;
     justify-content: center;
 }
 
@@ -875,11 +876,12 @@ footer > ul > li:hover {
     .cards-container-shop {
         width: 100%;
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
+        align-items: center;
     }
 
     .card-shop {
-        width: auto;
+        width: 100%;
     }
 }
 
@@ -901,5 +903,55 @@ input[type="checkbox"] {
     width: 16px;
     cursor: pointer;
     border-radius: 3px;
+}
+
+.price-inputs {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+#min-price {
+    width: calc(100% / 3);
+    padding: 8px;
+    border-radius: 3px;
+    border: 1px solid var(--fill-primary);
+    background-color: var(--fil-secondary);
+}
+
+#max-price {
+    width: calc(100% / 3);
+    padding: 8px;
+    border-radius: 3px;
+    border: 1px solid var(--fill-primary);
+    background-color: var(--fil-secondary);
+    text-align: right;
+}
+
+#price-range {
+    width: 100%;
+    margin-top: 24px;
+    accent-color: var(--fill-primary);
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    gap: 8px;
+}
+
+.pagination-btn {
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+.pagination-btn.active {
+    background-color: var(--main-black);
+    color: var(--main-white);
+    font-weight: bold;
 }
 
